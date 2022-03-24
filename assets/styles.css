@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(238, 155, 238);
+}
+
+main {
+    background-color: rgb(155, 228, 238);
+}
+
+footer {
+    background-color: rgb(178, 238, 155);
+}
+
+/* Layout */
+.container{
+    display: flex
+}
+
+
+/* content */
+.h-200{
+    height: 200px;
+}
